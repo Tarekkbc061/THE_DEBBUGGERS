@@ -22,7 +22,7 @@ El proyecto ha sido desarrollado siguiendo metodologías Agile (Scrum/Kanban) y 
 ### Aplicación principal (Studify)
 
 Repositorio que contiene el código fuente completo de la aplicación:
-https://github.com/pau12arbues/code_debuggers/blob/main/README.md
+https://github.com/pau12arbues/code_debuggers/tree/main
 
 Incluye:
 - Frontend
